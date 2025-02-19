@@ -1,0 +1,94 @@
+
+ 
+// RTL
+// @import "../scss/custom/rtl/general-rtl";
+// @import "../scss/custom/rtl/bootstrap-rtl";
+// @import "../scss/custom/rtl/spacing-rtl";
+// @import "../scss/custom/rtl/float-rtl";
+// @import "../scss/custom/rtl/text-rtl";
+// @import "../scss/custom/rtl/structure-rtl";
+// @import "../scss/custom/rtl/plugins-rtl";
+// @import "../scss/custom/rtl/components-rtl";
+// @import "../scss/custom/rtl/pages-rtl";
+
+body {
+  * {
+    outline: none !important;
+  }
+}
+
+.table-settings{
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.sort-icon {
+    cursor: pointer;
+}
+.edit-btn{
+    display: block;
+    width: 100%;
+}
+.manage-col{
+    .btn{
+        background-color: none !important;
+        --bs-btn-bg: none;
+        border: none;
+        box-shadow: none;
+        color: black;
+        --bs-btn-padding-x: 0 !important;
+        --bs-btn-padding-y: 0 !important;
+    }
+    .btn:hover {
+        color: blue;
+        background-color: #63667803;
+        border-color: blue;
+    }
+    .btn:active {
+        color: blue;
+        background-color: #63667803;
+        border-color: blue;
+    }
+}
+.action{
+
+    .btn{
+        background-color: none !important;
+        --bs-btn-bg: none;
+        border: none;
+        box-shadow: none;
+        color: black;
+        padding: 0;
+        
+    }
+   
+}
+
+
+table{
+    
+ 
+
+    .search-col{
+        
+        th{
+            background-color: white !important;
+        
+
+            .form-control {
+                display: block;
+                width: 80% !important;
+                padding: 0.37rem 0.45rem !important;
+                font-size: 0.775rem !important;
+                font-weight: 400;
+                line-height: 1;
+            }
+        }
+
+       
+
+    }
+  td{
+    text-align: left !important;
+  }
+}

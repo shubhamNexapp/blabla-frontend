@@ -1,0 +1,33 @@
+.nexapp-address p {
+    margin: 0px;
+    font-size: 13px;
+}
+
+.nexapp-address h5 {
+    margin: 2px 0px;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.invoice-details div span {
+    margin: 2px 0px;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.invoice-details div {
+    margin-bottom: 6px;
+
+}
+
+/* For Chrome, Safari, Edge, and Opera */
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* For Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+}

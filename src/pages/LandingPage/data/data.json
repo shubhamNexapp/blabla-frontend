@@ -1,0 +1,114 @@
+{
+  "Services": [
+    {
+      "icon": "fa mdi mdi-router-wireless",
+      "name": "Router Installation ",
+      "text": "Our Router Installation Service ensures fast, secure network setup with full hardware installation and configuration. Stay connected effortlessly with expert support."
+    },
+    {
+      "icon": "fa mdi mdi-desktop-tower-monitor",
+      "name": "PC Installation ",
+      "text": "Our PC Installation Service ensures your computer is set up and optimized for use, hassle-free. From unboxing to software setup, we handle everything for you."
+    },
+    {
+      "icon": "fa mdi mdi-sitemap-outline",
+      "name": "Branch Networking Rollout",
+      "text": "Our Branch Networking Rollout Service delivers scalable, secure network infrastructure across multiple locations. We ensure seamless connectivity for smooth business operations across all branches"
+    },
+    {
+      "icon": "fa  fas fa-wifi",
+      "name": "Wi-Fi Audit ",
+      "text": "Our Wi-Fi Audit Service thoroughly evaluates your network for optimal performance, security, and coverage. We identify issues and provide tailored solutions to improve your Wi-Fi for home or business."
+    },
+    {
+      "icon": "fa mdi mdi-cctv",
+      "name": "CCTV Installation",
+      "text": "Our CCTV Installation Service provides professional setup and configuration of your surveillance system, ensuring reliable monitoring and security for your property"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "403,/401,/406 4th, S.NO 577/A/1 Suyog Center, Gultekadi, Pune, Maharashtra 411037",
+    "phone": "18002109991 / 020 6762 9999",
+    "email": "no-reply@instaone.net",
+    "facebook": "https://www.facebook.com/nexapptechnologies/",
+    "twitter": "https://x.com/i/flow/login?redirect_after_login=%2Fnexapptech",
+    "youtube": "youtube.com",
+    "linkedln": "https://www.linkedin.com/company/nexapptechnologies/mycompany/"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
