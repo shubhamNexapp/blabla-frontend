@@ -42,7 +42,7 @@ fakeBackend();
 // initFirebaseBackend(firebaseConfig)
 
 const App = props => {
-
+  console.log('1111')
   function getLayout() {
     let layoutCls = VerticalLayout
     switch (props.layout.layoutType) {
